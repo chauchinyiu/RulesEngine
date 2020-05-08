@@ -1,0 +1,132 @@
+;;;;;;;
+"IKESA Teilnahme Apple Pay ""639""";"IKESA Teilnahme virtuelle Karte ""637""";Der Kunde ist minderjährig;"Karten in der Wallet
+Ja: Karte ist in der Wallet und Match aus letzen 4 Stellen der PAN mit den Karten aus agree21 ist OK.
+Nein: Sonst";Digitalisierbare physische Kreditkarten in agree21 für den NetKey Inhaber vorhanden;Virtuelle Kreditkarten in agree21 für den NetKey Inhaber vorhanden;Konten für Bestellung virtuelle Karte für den NetKey Inhaber vorhanden;Welche Aktion wird nach dem Klick auf den Menüpunkt Apple Pay angezeigt.
+Ja;Ja;Ja;Ja;Ja;Ja;Ja;Kartenübersicht
+Ja;Ja;Ja;Ja;Ja;Ja;Nein;Kartenübersicht
+Ja;Ja;Ja;Ja;Ja;Nein;Ja;Kartenübersicht
+Ja;Ja;Ja;Ja;Ja;Nein;Nein;Kartenübersicht
+Ja;Ja;Ja;Ja;Nein;Ja;Ja;Werbung Apple Pay
+Ja;Ja;Ja;Ja;Nein;Ja;Nein;Werbung Apple Pay
+Ja;Ja;Ja;Ja;Nein;Nein;Ja;Werbung Apple Pay
+Ja;Ja;Ja;Ja;Nein;Nein;Nein;Werbung Apple Pay
+Ja;Ja;Ja;Nein;Ja;Ja;Ja;Kartenübersicht
+Ja;Ja;Ja;Nein;Ja;Ja;Nein;Kartenübersicht
+Ja;Ja;Ja;Nein;Ja;Nein;Ja;Kartenübersicht
+Ja;Ja;Ja;Nein;Ja;Nein;Nein;Kartenübersicht
+Ja;Ja;Ja;Nein;Nein;Ja;Ja;Werbung Apple Pay
+Ja;Ja;Ja;Nein;Nein;Ja;Nein;Werbung Apple Pay
+Ja;Ja;Ja;Nein;Nein;Nein;Ja;Werbung Apple Pay
+Ja;Ja;Ja;Nein;Nein;Nein;Nein;Werbung Apple Pay
+Ja;Ja;Nein;Ja;Ja;Ja;Ja;Kartenübersicht
+Ja;Ja;Nein;Ja;Ja;Ja;Nein;Kartenübersicht
+Ja;Ja;Nein;Ja;Ja;Nein;Ja;Kartenübersicht
+Ja;Ja;Nein;Ja;Ja;Nein;Nein;Kartenübersicht
+Ja;Ja;Nein;Ja;Nein;Ja;Ja;Kartenübersicht
+Ja;Ja;Nein;Ja;Nein;Ja;Nein;Kartenübersicht
+Ja;Ja;Nein;Ja;Nein;Nein;Ja;Bestellung virtuelle Karten
+Ja;Ja;Nein;Ja;Nein;Nein;Nein;Werbung Apple Pay
+Ja;Ja;Nein;Nein;Ja;Ja;Ja;Kartenübersicht
+Ja;Ja;Nein;Nein;Ja;Ja;Nein;Kartenübersicht
+Ja;Ja;Nein;Nein;Ja;Nein;Ja;Bestellung virtuelle Karten
+Ja;Ja;Nein;Nein;Ja;Nein;Nein;Kartenübersicht
+Ja;Ja;Nein;Nein;Nein;Ja;Ja;Kartenübersicht
+Ja;Ja;Nein;Nein;Nein;Ja;Nein;Kartenübersicht
+Ja;Ja;Nein;Nein;Nein;Nein;Ja;Bestellung virtuelle Karten
+Ja;Ja;Nein;Nein;Nein;Nein;Nein;Werbung Apple Pay
+Ja;Nein;Ja;Ja;Ja;Ja;Ja;Kartenübersicht
+Ja;Nein;Ja;Ja;Ja;Ja;Nein;Kartenübersicht
+Ja;Nein;Ja;Ja;Ja;Nein;Ja;Kartenübersicht
+Ja;Nein;Ja;Ja;Ja;Nein;Nein;Kartenübersicht
+Ja;Nein;Ja;Ja;Nein;Ja;Ja;Werbung Apple Pay
+Ja;Nein;Ja;Ja;Nein;Ja;Nein;Werbung Apple Pay
+Ja;Nein;Ja;Ja;Nein;Nein;Ja;Werbung Apple Pay
+Ja;Nein;Ja;Ja;Nein;Nein;Nein;Werbung Apple Pay
+Ja;Nein;Ja;Nein;Ja;Ja;Ja;Kartenübersicht
+Ja;Nein;Ja;Nein;Ja;Ja;Nein;Kartenübersicht
+Ja;Nein;Ja;Nein;Ja;Nein;Ja;Kartenübersicht
+Ja;Nein;Ja;Nein;Ja;Nein;Nein;Kartenübersicht
+Ja;Nein;Ja;Nein;Nein;Ja;Ja;Werbung Apple Pay
+Ja;Nein;Ja;Nein;Nein;Ja;Nein;Werbung Apple Pay
+Ja;Nein;Ja;Nein;Nein;Nein;Ja;Werbung Apple Pay
+Ja;Nein;Ja;Nein;Nein;Nein;Nein;Werbung Apple Pay
+Ja;Nein;Nein;Ja;Ja;Ja;Ja;Kartenübersicht
+Ja;Nein;Nein;Ja;Ja;Ja;Nein;Kartenübersicht
+Ja;Nein;Nein;Ja;Ja;Nein;Ja;Kartenübersicht
+Ja;Nein;Nein;Ja;Ja;Nein;Nein;Kartenübersicht
+Ja;Nein;Nein;Ja;Nein;Ja;Ja;Werbung Apple Pay
+Ja;Nein;Nein;Ja;Nein;Ja;Nein;Werbung Apple Pay
+Ja;Nein;Nein;Ja;Nein;Nein;Ja;Werbung Apple Pay
+Ja;Nein;Nein;Ja;Nein;Nein;Nein;Werbung Apple Pay
+Ja;Nein;Nein;Nein;Ja;Ja;Ja;Kartenübersicht
+Ja;Nein;Nein;Nein;Ja;Ja;Nein;Kartenübersicht
+Ja;Nein;Nein;Nein;Ja;Nein;Ja;Kartenübersicht
+Ja;Nein;Nein;Nein;Ja;Nein;Nein;Kartenübersicht
+Ja;Nein;Nein;Nein;Nein;Ja;Ja;Werbung Apple Pay
+Ja;Nein;Nein;Nein;Nein;Ja;Nein;Werbung Apple Pay
+Ja;Nein;Nein;Nein;Nein;Nein;Ja;Werbung Apple Pay
+Ja;Nein;Nein;Nein;Nein;Nein;Nein;Werbung Apple Pay
+Nein;Ja;Ja;Ja;Ja;Ja;Ja;Hinweis minderjährig
+Nein;Ja;Ja;Ja;Ja;Ja;Nein;Hinweis minderjährig
+Nein;Ja;Ja;Ja;Ja;Nein;Ja;Hinweis minderjährig
+Nein;Ja;Ja;Ja;Ja;Nein;Nein;Hinweis minderjährig
+Nein;Ja;Ja;Ja;Nein;Ja;Ja;Hinweis minderjährig
+Nein;Ja;Ja;Ja;Nein;Ja;Nein;Hinweis minderjährig
+Nein;Ja;Ja;Ja;Nein;Nein;Ja;Hinweis minderjährig
+Nein;Ja;Ja;Ja;Nein;Nein;Nein;Hinweis minderjährig
+Nein;Ja;Ja;Nein;Ja;Ja;Ja;Hinweis minderjährig
+Nein;Ja;Ja;Nein;Ja;Ja;Nein;Hinweis minderjährig
+Nein;Ja;Ja;Nein;Ja;Nein;Ja;Hinweis minderjährig
+Nein;Ja;Ja;Nein;Ja;Nein;Nein;Hinweis minderjährig
+Nein;Ja;Ja;Nein;Nein;Ja;Ja;Hinweis minderjährig
+Nein;Ja;Ja;Nein;Nein;Ja;Nein;Hinweis minderjährig
+Nein;Ja;Ja;Nein;Nein;Nein;Ja;Hinweis minderjährig
+Nein;Ja;Ja;Nein;Nein;Nein;Nein;Hinweis minderjährig
+Nein;Ja;Nein;Ja;Ja;Ja;Ja;Kartenübersicht
+Nein;Ja;Nein;Ja;Ja;Ja;Nein;Kartenübersicht
+Nein;Ja;Nein;Ja;Ja;Nein;Ja;Bestellung virtuelle Karten
+Nein;Ja;Nein;Ja;Ja;Nein;Nein;Menüpunkt wird nicht angezeigt
+Nein;Ja;Nein;Ja;Nein;Ja;Ja;Kartenübersicht
+Nein;Ja;Nein;Ja;Nein;Ja;Nein;Kartenübersicht
+Nein;Ja;Nein;Ja;Nein;Nein;Ja;Bestellung virtuelle Karten
+Nein;Ja;Nein;Ja;Nein;Nein;Nein;Menüpunkt wird nicht angezeigt
+Nein;Ja;Nein;Nein;Ja;Ja;Ja;Kartenübersicht
+Nein;Ja;Nein;Nein;Ja;Ja;Nein;Kartenübersicht
+Nein;Ja;Nein;Nein;Ja;Nein;Ja;Bestellung virtuelle Karten
+Nein;Ja;Nein;Nein;Ja;Nein;Nein;Menüpunkt wird nicht angezeigt
+Nein;Ja;Nein;Nein;Nein;Ja;Ja;Kartenübersicht
+Nein;Ja;Nein;Nein;Nein;Ja;Nein;Kartenübersicht
+Nein;Ja;Nein;Nein;Nein;Nein;Ja;Bestellung virtuelle Karten
+Nein;Ja;Nein;Nein;Nein;Nein;Nein;Menüpunkt wird nicht angezeigt
+Nein;Nein;Ja;Ja;Ja;Ja;Ja;Menüpunkt wird nicht angezeigt
+Nein;Nein;Ja;Ja;Ja;Ja;Nein;Menüpunkt wird nicht angezeigt
+Nein;Nein;Ja;Ja;Ja;Nein;Ja;Menüpunkt wird nicht angezeigt
+Nein;Nein;Ja;Ja;Ja;Nein;Nein;Menüpunkt wird nicht angezeigt
+Nein;Nein;Ja;Ja;Nein;Ja;Ja;Menüpunkt wird nicht angezeigt
+Nein;Nein;Ja;Ja;Nein;Ja;Nein;Menüpunkt wird nicht angezeigt
+Nein;Nein;Ja;Ja;Nein;Nein;Ja;Menüpunkt wird nicht angezeigt
+Nein;Nein;Ja;Ja;Nein;Nein;Nein;Menüpunkt wird nicht angezeigt
+Nein;Nein;Ja;Nein;Ja;Ja;Ja;Menüpunkt wird nicht angezeigt
+Nein;Nein;Ja;Nein;Ja;Ja;Nein;Menüpunkt wird nicht angezeigt
+Nein;Nein;Ja;Nein;Ja;Nein;Ja;Menüpunkt wird nicht angezeigt
+Nein;Nein;Ja;Nein;Ja;Nein;Nein;Menüpunkt wird nicht angezeigt
+Nein;Nein;Ja;Nein;Nein;Ja;Ja;Menüpunkt wird nicht angezeigt
+Nein;Nein;Ja;Nein;Nein;Ja;Nein;Menüpunkt wird nicht angezeigt
+Nein;Nein;Ja;Nein;Nein;Nein;Ja;Menüpunkt wird nicht angezeigt
+Nein;Nein;Ja;Nein;Nein;Nein;Nein;Menüpunkt wird nicht angezeigt
+Nein;Nein;Nein;Ja;Ja;Ja;Ja;Menüpunkt wird nicht angezeigt
+Nein;Nein;Nein;Ja;Ja;Ja;Nein;Menüpunkt wird nicht angezeigt
+Nein;Nein;Nein;Ja;Ja;Nein;Ja;Menüpunkt wird nicht angezeigt
+Nein;Nein;Nein;Ja;Ja;Nein;Nein;Menüpunkt wird nicht angezeigt
+Nein;Nein;Nein;Ja;Nein;Ja;Ja;Menüpunkt wird nicht angezeigt
+Nein;Nein;Nein;Ja;Nein;Ja;Nein;Menüpunkt wird nicht angezeigt
+Nein;Nein;Nein;Ja;Nein;Nein;Ja;Menüpunkt wird nicht angezeigt
+Nein;Nein;Nein;Ja;Nein;Nein;Nein;Menüpunkt wird nicht angezeigt
+Nein;Nein;Nein;Nein;Ja;Ja;Ja;Menüpunkt wird nicht angezeigt
+Nein;Nein;Nein;Nein;Ja;Ja;Nein;Menüpunkt wird nicht angezeigt
+Nein;Nein;Nein;Nein;Ja;Nein;Ja;Menüpunkt wird nicht angezeigt
+Nein;Nein;Nein;Nein;Ja;Nein;Nein;Menüpunkt wird nicht angezeigt
+Nein;Nein;Nein;Nein;Nein;Ja;Nein;Menüpunkt wird nicht angezeigt
+Nein;Nein;Nein;Nein;Nein;Ja;Nein;Menüpunkt wird nicht angezeigt
+Nein;Nein;Nein;Nein;Nein;Nein;Ja;Menüpunkt wird nicht angezeigt
+Nein;Nein;Nein;Nein;Nein;Nein;Nein;Menüpunkt wird nicht angezeigt
